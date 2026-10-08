@@ -1,0 +1,21 @@
+{
+  "name": "carrito_compras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montanogaby908-cloud/CARRITO_COMPRAS.git"
+  },
+  "dependencies": {
+    "lucide-react": "^1.52.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.3"
+  }
+}
